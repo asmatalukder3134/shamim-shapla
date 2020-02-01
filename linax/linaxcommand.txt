@@ -1,5 +1,5 @@
 pwd  to see thepresent work directory
-ls to seelist of file inside folder  
+ls to see list of file inside folder  
 mkdir to creat a folder
 touch to creat a new file
 cd  to change the directory
