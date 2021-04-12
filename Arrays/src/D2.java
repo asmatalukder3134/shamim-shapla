@@ -21,7 +21,7 @@ for(int i=0;i<a.length;i++)//a.length is number of raws here 2 calculate student
 	 for(int j=0;j<a[i].length;j++) {// 
 		
 		 System.out.println(a[i][j]);
-		 System.out.println(99);
+		 System.out.println(66);
 		 
 		 
 	 }
